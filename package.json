@@ -2,7 +2,7 @@
   "name": "react-expense-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ayushkul.github.io/react-expense-tracker",
+  "homepage": "http://1ms19cs066.github.io/Expense-Tracker",
   "dependencies": {
     "gh-pages": "^3.2.3",
     "react": "^17.0.2",
